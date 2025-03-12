@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "67c89871a479765132e431a9"
+  },
+  "cliente_id": {
+    "$oid": "67c89a3ba479765132e431ab"
+  },
+  "ejemplar_id": {
+    "$oid": "67c89709a479765132e431a5"
+  },
+  "fecha_devolucion": "28-02-2025",
+  "fecha_prestamo": "15-02-2025"
+}]
