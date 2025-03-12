@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "67c89a3ba479765132e431ab"
+  },
+  "email": "camila254@gmail.com",
+  "historial_id": {
+    "$oid": "67c89871a479765132e431a9"
+  },
+  "nombre": "Camila",
+  "prestamo_id": {
+    "$oid": "67c89ba1a479765132e431ad"
+  },
+  "telefono": "3006667788"
+}]
