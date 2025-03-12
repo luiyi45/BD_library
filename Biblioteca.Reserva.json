@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "67c89cafa479765132e431b0"
+  },
+  "cliente_id": {
+    "$oid": "67c89a3ba479765132e431ab"
+  },
+  "estado": "pendiente",
+  "fecha_reserva": "15-02-2025",
+  "libro_id": {
+    "$oid": "67c88ee6a479765132e431a2"
+  }
+}]
