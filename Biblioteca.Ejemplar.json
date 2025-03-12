@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "67c89709a479765132e431a5"
+  },
+  "codigo": "5437",
+  "estado": "available",
+  "libro_id": {
+    "$oid": "67c88ee6a479765132e431a2"
+  },
+  "ubicacion": "estante 3"
+}]
